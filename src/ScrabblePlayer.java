@@ -24,7 +24,7 @@ public class ScrabblePlayer
     // initialize ScrabblePlayer with a file of English words
     public ScrabblePlayer(String wordFile)
     {
-        //OBAMAMAMAMAM
+        
         
         
     }
